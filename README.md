@@ -17,8 +17,8 @@ The Kaiser Member Service Portal is an enterprise-tier web application purpose-b
 
 ## Author
 * **Name**: Kaiser Member Service Dev Team
-* **Email**: 
-* **Website**: 
+* **Email**: helen23marki@outlook.com
+* **Website**: [Kaiser Member Service](https://www.kaisermemberservice.com)
 * **Bio**: A highly versatile group of full-stack engineers and software architects mastering declarative frontend frameworks. Known for their helping nature and dedication to mentoring open-source contributors, they bring over a decade of enterprise healthcare infrastructure knowledge to the table, building pristine, highly maintainable systems.
 
 ## Getting Started
